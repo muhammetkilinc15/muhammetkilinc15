@@ -62,12 +62,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
 </div>
 
-<h2 align="left">Projects</h2>
-
-<p align="left">
-  Here are some of the projects I've been working on:<br>
-  - Project A: Description of the project.<br>
-  - Project B: Description of the project.<br>
-  - Project C: Description of the project.<br>
-  Feel free to check them out on my GitHub!
-</p>
