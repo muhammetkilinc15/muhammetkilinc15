@@ -1,88 +1,68 @@
 <h1 align="left">Hi 👋, I'm Muhammet Kılınç</h1>
 
-###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammetkilinc15&label=Profile%20views&color=0e75b6&style=flat" alt="muhammetkilinc15" /> </p>
+<p align="center">
+  <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png" alt="Profile Image" style="border-radius: 50%;"/>
+</p>
 
+<p align="center">
+  A Student at Alparslan Türkeş Science and Technology University
+</p>
 
-<p align="center">A Student at Alparslan Türkeş Science And Technology University</p>
-  
+<h2 align="left">About Me</h2>
 
-###
+<p align="left">
+  ✨ Creating bugs since 2021.<br>
+  📚 Currently learning Node.js, Python, and C#. Excited to build amazing projects with this trio!<br>
+  🎯 My goal is to become a backend developer and I enjoy developing APIs with Node.js, Python, and ASP.NET.<br>
+  🌟 Passionate about continuous learning and applying new technologies.
+</p>
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2021.<br>📚 Currently learning Node.js, Python, and C#. Excited to build amazing projects with this trio!<br>🎯 My goal is to become a backend developer and I enjoy developing APIs with Node.js, Python, and ASP.NET.</p>
-
-###
-
-<h3 align="left">Connect With Me :</h3>
-
-###
+<h3 align="left">Connect With Me:</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammet-kilinc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="40" alt="LinkedIn logo" />
   </a>
   <a href="mailto:mhmmtklnc15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="40" alt="Gmail logo" />
   </a>
 </div>
-
-###
 
 <h2 align="left">Languages and Tools:</h2>
 
-###
-
-<h4 align="left">BACKEND</h4>
-
-###
+<h4 align="left">Backend Technologies</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
 </div>
 
-###
-
-<h4 align="left">FRONTED</h4>
-
-###
-
-<br clear="both">
+<h4 align="left">Frontend Technologies</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
 </div>
 
-###
-
-<h4 align="left">DATABASE</h4>
-
-###
+<h4 align="left">Database Technologies</h4>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
 </div>
 
-###
+<h2 align="left">Projects</h2>
+
+<p align="left">
+  Here are some of the projects I've been working on:<br>
+  - Project A: Description of the project.<br>
+  - Project B: Description of the project.<br>
+  - Project C: Description of the project.<br>
+  Feel free to check them out on my GitHub!
+</p>
