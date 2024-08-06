@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Muhammet Kılınç</h1>
 
 <p align="center">
-  <img src="https://png.pngtree.com/png-vector/20230728/ourmid/pngtree-coder-clipart-boy-working-with-computer-game-on-the-desk-vector-png-image_6804917.png" alt="Profile Image" style="border-radius: 50%;"/>
+  <img src="https://png.pngtree.com/png-vector/20231214/ourmid/pngtree-young-programmer-writing-program-code-png-image_11353939.png" alt="Profile Image" style="border-radius: 50%;"/>
 </p>
 
 <p align="center">
