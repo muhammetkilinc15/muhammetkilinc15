@@ -1,48 +1,48 @@
-<h1 align="left">Hi 👋, I'm Muhammet Kılınç</h1>
+<h1 align="left">Hi, I'm Muhammet Kılınç</h1>
 
 <p align="center">
-  🎓 A Student at Alparslan Türkeş Science and Technology University
+  Student at Alparslan Türkeş Science and Technology University
 </p>
 
-## 🚀 About Me  
+## About Me  
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mhmmtklnc15&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
-- 🏗️ Interested in **backend development** with **ASP.NET Core API** and **Node.js**.  
-- 📱 Learning **mobile development** with **Flutter**.  
+- Interested in **backend development** using **ASP.NET Core API** and **Node.js**  
+- Learning **mobile development** with **Flutter**  
 
-
-
-## 📫 Connect With Me  
+## Connect With Me  
 
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammet-kilinc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=flat" height="40" alt="LinkedIn logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="30" alt="LinkedIn logo" />
   </a>
   <a href="mailto:mhmmtklnc15@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=flat" height="40" alt="Gmail logo" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30" alt="Gmail logo" />
   </a>
 </div>
 
+## Technologies  
 
-
-## 🛠️ Technologies  
-
-### 🔹 Backend  
+### Backend  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt=".NET logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="C# logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="35" alt=".NET logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="Node.js logo" />
 </div>
 
-### 🔹 Mobile  
+### Mobile  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="Flutter logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="35" alt="Flutter logo" />
 </div>
 
-### 🔹 Database  
+### Database  
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="35" alt="SQL Server logo" />
 </div>
+
